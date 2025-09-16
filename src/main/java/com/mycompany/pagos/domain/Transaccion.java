@@ -9,7 +9,6 @@ package com.mycompany.pagos.domain;
  * @author Coder
  */
 public abstract class Transaccion {
-    
     private double monto;
     
     
@@ -25,6 +24,4 @@ public abstract class Transaccion {
     protected double getMonto(){
         return monto;
     }
-    
-    
 }
