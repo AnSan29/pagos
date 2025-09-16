@@ -1,0 +1,6 @@
+com/mycompany/pagos/domain/Compra.class
+com/mycompany/pagos/Pagos.class
+com/mycompany/pagos/service/PagoConTarjeta.class
+com/mycompany/pagos/domain/MetodoPago.class
+com/mycompany/pagos/domain/Transaccion.class
+com/mycompany/pagos/service/PagoConCrypto.class

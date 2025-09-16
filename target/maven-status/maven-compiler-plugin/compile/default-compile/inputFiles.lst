@@ -1,0 +1,6 @@
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/Pagos.java
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/service/PagoConCrypto.java
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/domain/Compra.java
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/service/PagoConTarjeta.java
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/domain/Transaccion.java
+/home/Coder/Escritorio/santoyo/pagos/src/main/java/com/mycompany/pagos/domain/MetodoPago.java
